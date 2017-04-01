@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GIF.iml" filepath="$PROJECT_DIR$/GIF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Customize Animation.iml" filepath="$PROJECT_DIR$/Customize Animation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
